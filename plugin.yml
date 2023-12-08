@@ -1,0 +1,6 @@
+main: Main
+name: DiscordServerStatus
+version: 1
+author: Whoneedspacee
+description: 'A plugin for displaying server status in discord'
+api-version: 1.16
