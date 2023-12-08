@@ -7,7 +7,7 @@ Uses the JDA library as a dependency
 https://github.com/discord-jda/JDA
 
 # Setup Steps
-Place the plugin in your plugins folder
+Place the plugins jar in your plugins folder
 
 Reload / Restart the server to allow the config to generate
 
